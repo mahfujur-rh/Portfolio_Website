@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../cps_academy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CS_STUDENT"
+	}
+}
